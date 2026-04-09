@@ -1,0 +1,2 @@
+# AI-Smart-Study-Helper
+Developed an AI Smart Study Helper using Python and Natural Language Processing (NLTK). The application helps students summarize study notes, generate practice questions automatically, and store notes using a SQLite database.   The project demonstrates practical use of NLP techniques such as sentence tokenization, word frequency analysis, and POS tagging to extract meaningful information from text.  Technologies used: Python, NLTK, SQLite, Command Line Interface.
